@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: rgb(184, 184, 184) 
+}
+
+body {
+    font-family: "Manrope", sans-serif; 
+}
+
+.titulo1 {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.titulo2 {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.banner {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.artista {
+    width: 300px;
+    border: 1px solid;
+}
+
+.foto{
+    display: block;
+    width: 300px;
+    border: 1px solid;
+}
+
+.banner2{
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    flex-wrap: wrap;
+} 
+
+.texto{
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    flex-wrap: wrap;
+    text-align: center;
+}
